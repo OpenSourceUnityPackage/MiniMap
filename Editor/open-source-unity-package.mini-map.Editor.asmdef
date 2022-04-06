@@ -1,0 +1,10 @@
+{
+	"name": "open-source-unity-package.mini-map.Editor",
+	"references": [
+		"open-source-unity-package.mini-map.Runtime"
+	],
+	"includePlatforms": [
+		"Editor"
+	],
+	"excludePlatforms": []
+}
